@@ -1,15 +1,7 @@
 {
-  "total_gaps": 556518,
-  "by_type": {
-    "low_confidence": 15,
-    "truncated_line": 556503
-  },
-  "by_severity": {
-    "medium": 15,
-    "low": 556503
-  },
-  "by_status": {
-    "detected": 556518
-  },
-  "books_affected": 15
+  "total_gaps": 0,
+  "by_type": {},
+  "by_severity": {},
+  "by_status": {},
+  "books_affected": 0
 }

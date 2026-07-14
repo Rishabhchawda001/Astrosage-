@@ -675,11 +675,11 @@
     "vishnu_puran_hindi_new_external"
   ],
   "failed_books": [],
-  "gap_count": 165,
-  "evidence_count": 15,
+  "gap_count": 0,
+  "evidence_count": 0,
   "candidate_count": 0,
   "conflict_count": 0,
   "started_at": "2026-07-13T06:53:56.144374+00:00",
-  "last_updated": "2026-07-14T19:23:44.208960+00:00",
+  "last_updated": "2026-07-14T20:12:49.839198+00:00",
   "metadata": {}
 }
