@@ -1,6 +1,6 @@
 {
   "scripture": "matsya_puran",
-  "total_editions": 2,
+  "total_editions": 3,
   "primary_edition": "Matsya Puran (Gita Press).md",
   "primary_authority_score": 85,
   "editions": [
@@ -31,8 +31,19 @@
       "size": 664870,
       "authority_score": 60,
       "quality_tier": "B"
+    },
+    {
+      "file": "matsya_puran_gitapress_hindi_external.md",
+      "publisher": "Gita Press",
+      "authority_score": 80,
+      "quality_tier": "A"
     }
   ],
   "created_date": "2026-07-14T15:17:15.608641+00:00",
-  "recovery_status": "active"
+  "recovery_status": "active",
+  "authority_scores": {
+    "Matsya Puran (Gita Press).md": 85,
+    "Matsya Puran (Archive.org Hindi).md": 60,
+    "matsya_puran_gitapress_hindi_external.md": 80
+  }
 }

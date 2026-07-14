@@ -1,6 +1,6 @@
 {
   "scripture": "skand_puran",
-  "total_editions": 2,
+  "total_editions": 3,
   "primary_edition": "Skand Puran (Gita Press).md",
   "primary_authority_score": 75,
   "editions": [
@@ -31,8 +31,19 @@
       "size": 638796,
       "authority_score": 60,
       "quality_tier": "B"
+    },
+    {
+      "file": "skand_puran_gita_press_new_external.md",
+      "publisher": "Gita Press",
+      "authority_score": 80,
+      "quality_tier": "A"
     }
   ],
   "created_date": "2026-07-14T15:17:13.583807+00:00",
-  "recovery_status": "active"
+  "recovery_status": "active",
+  "authority_scores": {
+    "Skand Puran (Gita Press).md": 75,
+    "Skand Puran (Archive.org Hindi).md": 60,
+    "skand_puran_gita_press_new_external.md": 80
+  }
 }

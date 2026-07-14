@@ -1,6 +1,6 @@
 {
   "scripture": "kurma_puran",
-  "total_editions": 2,
+  "total_editions": 3,
   "primary_edition": "Kurma Puran (Gita Press).md",
   "primary_authority_score": 85,
   "editions": [
@@ -31,8 +31,19 @@
       "size": 1188340,
       "authority_score": 70,
       "quality_tier": "A"
+    },
+    {
+      "file": "kurma_puran_gita_press_new_external.md",
+      "publisher": "Gita Press",
+      "authority_score": 80,
+      "quality_tier": "A"
     }
   ],
   "created_date": "2026-07-14T15:17:14.976305+00:00",
-  "recovery_status": "active"
+  "recovery_status": "active",
+  "authority_scores": {
+    "Kurma Puran (Gita Press).md": 85,
+    "Kurma Puran (Archive.org Hindi).md": 70,
+    "kurma_puran_gita_press_new_external.md": 80
+  }
 }

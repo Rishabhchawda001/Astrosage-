@@ -1,33 +1,33 @@
 {
-  "external_editions_processed": 5,
+  "external_editions_processed": 7,
   "new_public_domain_downloads": 0,
-  "atomic_fragments_recovered": 8849,
-  "characters_recovered": 2892104,
-  "words_recovered": 459078,
+  "atomic_fragments_recovered": 48025,
+  "characters_recovered": 13888382,
+  "words_recovered": 2181393,
   "verses_recovered": 0,
   "commentary_recovered": 0,
   "unknown_units_remaining": 0,
-  "alignments_made": 17,
+  "alignments_made": 66,
   "http_requests": 139,
-  "execution_time": 98.3,
+  "execution_time": 103.6,
   "evidence": {
-    "total": 8866,
+    "total": 48091,
     "by_source_type": {
-      "external_edition": 17,
-      "recovery_from_external": 8849
+      "recovery_from_external": 48025,
+      "external_edition": 66
     },
-    "unique_units": 18
+    "unique_units": 35
   },
   "alignment": {
-    "total": 17,
+    "total": 66,
     "by_type": {
-      "external_edition": 17
+      "external_edition": 66
     }
   },
   "reconstruction": {
-    "total": 8849,
+    "total": 48025,
     "by_status": {
-      "candidate": 8849
+      "candidate": 48025
     }
   },
   "statistics": {

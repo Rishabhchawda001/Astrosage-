@@ -1,6 +1,6 @@
 {
   "scripture": "devi_bhagwat",
-  "total_editions": 3,
+  "total_editions": 4,
   "primary_edition": "Devi Bhagwat (Gita Press).md",
   "primary_authority_score": 85,
   "editions": [
@@ -33,8 +33,20 @@
       "quality_tier": "B",
       "ckus": 32918,
       "verses": 42983
+    },
+    {
+      "file": "devi_bhagwat_prasang_gita_press_external.md",
+      "publisher": "Gita Press",
+      "authority_score": 55,
+      "quality_tier": "B"
     }
   ],
   "created_date": "2026-07-14T15:18:43.049662+00:00",
-  "recovery_status": "active"
+  "recovery_status": "active",
+  "authority_scores": {
+    "Devi Bhagwat (Gita Press).md": 85,
+    "Devi Bhagvat Puran.md": 70,
+    "Hindi Book-Devi Bhagvat Puran.md": 65,
+    "devi_bhagwat_prasang_gita_press_external.md": 55
+  }
 }

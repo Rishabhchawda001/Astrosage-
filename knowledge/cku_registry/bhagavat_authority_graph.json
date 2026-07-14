@@ -71,6 +71,12 @@
       "license": "Public Domain",
       "completeness": "Partial (Vol 2)",
       "authority_score": 30
+    },
+    {
+      "file": "bhagavat_gita_press_sanskrit_hindi_external.md",
+      "publisher": "Gita Press",
+      "authority_score": 80,
+      "quality_tier": "A"
     }
   ],
   "families": [
@@ -126,5 +132,14 @@
       "bhagavat_vol1_gita_press.txt",
       "bhagavat_purana_hindi_full.txt"
     ]
+  },
+  "total_editions": 6,
+  "authority_scores": {
+    "bhagavat_vol1_gita_press.txt": 63,
+    "bhagwat_puran_part1_khemraj.txt": 60,
+    "bhagwat_puran_part2_khemraj.txt": 60,
+    "bhagavat_purana_hindi_full.txt": 45,
+    "bhagavat_vol2_sanskrit_hindi.txt": 30,
+    "bhagavat_gita_press_sanskrit_hindi_external.md": 80
   }
 }
