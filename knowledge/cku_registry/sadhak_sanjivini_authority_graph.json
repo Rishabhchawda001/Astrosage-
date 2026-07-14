@@ -1,0 +1,46 @@
+{
+  "scripture": "sadhak_sanjivini",
+  "created": "2026-07-14T15:52:15.183954+00:00",
+  "edition_count": 2,
+  "editions": [
+    {
+      "name": "sadhak_sanjivini_sanskrit_hindi",
+      "file": "knowledge/silver/structured_documents/sadhak_sanjivini_sanskrit_hindi.md",
+      "size_bytes": 2362469,
+      "lines": 21429,
+      "script": "Devanagari",
+      "devanagari_percentage": 76.5,
+      "authority_score": 70,
+      "textual_family": "hindi_translation",
+      "hash": "2ac465f38da20a33",
+      "source": "existing_corpus",
+      "public_domain": true
+    },
+    {
+      "name": "sadhak_sanjivini_sanskrit_hindi_djvu",
+      "file": "knowledge/silver/structured_documents/sadhak_sanjivini_sanskrit_hindi_djvu.md",
+      "size_bytes": 2368257,
+      "lines": 22715,
+      "script": "Devanagari",
+      "devanagari_percentage": 76.0,
+      "authority_score": 70,
+      "textual_family": "hindi_translation",
+      "hash": "d55fbbcd20b380ff",
+      "source": "existing_corpus",
+      "public_domain": true
+    }
+  ],
+  "authority_scores": {
+    "sadhak_sanjivini_sanskrit_hindi": 70,
+    "sadhak_sanjivini_sanskrit_hindi_djvu": 70
+  },
+  "textual_families": {
+    "hindi_translation": [
+      "sadhak_sanjivini_sanskrit_hindi",
+      "sadhak_sanjivini_sanskrit_hindi_djvu"
+    ]
+  },
+  "cross_references": [],
+  "primary_edition": "sadhak_sanjivini_sanskrit_hindi",
+  "primary_authority_score": 70
+}

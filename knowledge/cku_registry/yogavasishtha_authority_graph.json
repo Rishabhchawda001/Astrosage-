@@ -1,0 +1,172 @@
+{
+  "scripture": "yogavasishtha",
+  "created": "2026-07-14T15:52:11.295017+00:00",
+  "edition_count": 10,
+  "editions": [
+    {
+      "name": "yogavasishtha_sanskrit_tatparyaprakasha_v2_external",
+      "file": "knowledge/silver/structured_documents/yogavasishtha_sanskrit_tatparyaprakasha_v2_external.md",
+      "size_bytes": 8470379,
+      "lines": 106711,
+      "script": "Devanagari",
+      "devanagari_percentage": 84.0,
+      "authority_score": 90,
+      "textual_family": "sanskrit_original",
+      "hash": "843a7c4f6e4d018b",
+      "source": "archive.org",
+      "public_domain": true
+    },
+    {
+      "name": "yogavasishtha_hindi_part4_external",
+      "file": "knowledge/silver/structured_documents/yogavasishtha_hindi_part4_external.md",
+      "size_bytes": 5644667,
+      "lines": 35243,
+      "script": "Devanagari",
+      "devanagari_percentage": 78.7,
+      "authority_score": 65,
+      "textual_family": "hindi_translation",
+      "hash": "24b48caffa7294de",
+      "source": "archive.org",
+      "public_domain": true
+    },
+    {
+      "name": "Shri-Yogavasishtha-4",
+      "file": "knowledge/silver/structured_documents/Shri-Yogavasishtha-4.md",
+      "size_bytes": 17814218,
+      "lines": 114985,
+      "script": "Devanagari",
+      "devanagari_percentage": 77.2,
+      "authority_score": 60,
+      "textual_family": "unknown",
+      "hash": "963547ea7f846e01",
+      "source": "existing_corpus",
+      "public_domain": true
+    },
+    {
+      "name": "Yogavasishtha Full (Archive.org)",
+      "file": "knowledge/silver/structured_documents/Yogavasishtha Full (Archive.org).md",
+      "size_bytes": 17796483,
+      "lines": 117400,
+      "script": "Devanagari",
+      "devanagari_percentage": 77.4,
+      "authority_score": 60,
+      "textual_family": "unknown",
+      "hash": "b1b4a1b7fff2f07e",
+      "source": "existing_corpus",
+      "public_domain": true
+    },
+    {
+      "name": "yogavasishtha_hindi_part2_external",
+      "file": "knowledge/silver/structured_documents/yogavasishtha_hindi_part2_external.md",
+      "size_bytes": 3894448,
+      "lines": 24699,
+      "script": "Devanagari",
+      "devanagari_percentage": 78.8,
+      "authority_score": 60,
+      "textual_family": "hindi_translation",
+      "hash": "91e35dbd9dc71f2d",
+      "source": "archive.org",
+      "public_domain": true
+    },
+    {
+      "name": "yogavasishtha_hindi_part3_external",
+      "file": "knowledge/silver/structured_documents/yogavasishtha_hindi_part3_external.md",
+      "size_bytes": 3515117,
+      "lines": 21777,
+      "script": "Devanagari",
+      "devanagari_percentage": 78.9,
+      "authority_score": 60,
+      "textual_family": "hindi_translation",
+      "hash": "2d8977af5fb842d6",
+      "source": "archive.org",
+      "public_domain": true
+    },
+    {
+      "name": "yogavasishtha_marathi_external",
+      "file": "knowledge/silver/structured_documents/yogavasishtha_marathi_external.md",
+      "size_bytes": 4653148,
+      "lines": 37898,
+      "script": "Devanagari",
+      "devanagari_percentage": 80.8,
+      "authority_score": 60,
+      "textual_family": "marathi_translation",
+      "hash": "fb41030aa026d0c9",
+      "source": "archive.org",
+      "public_domain": true
+    },
+    {
+      "name": "Shri-Yogavasishtha-1",
+      "file": "knowledge/silver/structured_documents/Shri-Yogavasishtha-1.md",
+      "size_bytes": 2824893,
+      "lines": 26845,
+      "script": "Latin/Other",
+      "devanagari_percentage": 0.0,
+      "authority_score": 50,
+      "textual_family": "unknown",
+      "hash": "b5ec1e4f5cd19cca",
+      "source": "existing_corpus",
+      "public_domain": true
+    },
+    {
+      "name": "Shri-Yogavasishtha-2",
+      "file": "knowledge/silver/structured_documents/Shri-Yogavasishtha-2.md",
+      "size_bytes": 2370072,
+      "lines": 21520,
+      "script": "Latin/Other",
+      "devanagari_percentage": 0.0,
+      "authority_score": 50,
+      "textual_family": "unknown",
+      "hash": "d547b1c9c62be652",
+      "source": "existing_corpus",
+      "public_domain": true
+    },
+    {
+      "name": "Shri-Yogavasishtha-3",
+      "file": "knowledge/silver/structured_documents/Shri-Yogavasishtha-3.md",
+      "size_bytes": 2121396,
+      "lines": 19364,
+      "script": "Latin/Other",
+      "devanagari_percentage": 0.0,
+      "authority_score": 50,
+      "textual_family": "unknown",
+      "hash": "12605e5f52e1f5e9",
+      "source": "existing_corpus",
+      "public_domain": true
+    }
+  ],
+  "authority_scores": {
+    "Shri-Yogavasishtha-1": 50,
+    "Shri-Yogavasishtha-2": 50,
+    "Shri-Yogavasishtha-3": 50,
+    "Shri-Yogavasishtha-4": 60,
+    "Yogavasishtha Full (Archive.org)": 60,
+    "yogavasishtha_hindi_part2_external": 60,
+    "yogavasishtha_hindi_part3_external": 60,
+    "yogavasishtha_hindi_part4_external": 65,
+    "yogavasishtha_marathi_external": 60,
+    "yogavasishtha_sanskrit_tatparyaprakasha_v2_external": 90
+  },
+  "textual_families": {
+    "unknown": [
+      "Shri-Yogavasishtha-1",
+      "Shri-Yogavasishtha-2",
+      "Shri-Yogavasishtha-3",
+      "Shri-Yogavasishtha-4",
+      "Yogavasishtha Full (Archive.org)"
+    ],
+    "hindi_translation": [
+      "yogavasishtha_hindi_part2_external",
+      "yogavasishtha_hindi_part3_external",
+      "yogavasishtha_hindi_part4_external"
+    ],
+    "marathi_translation": [
+      "yogavasishtha_marathi_external"
+    ],
+    "sanskrit_original": [
+      "yogavasishtha_sanskrit_tatparyaprakasha_v2_external"
+    ]
+  },
+  "cross_references": [],
+  "primary_edition": "yogavasishtha_sanskrit_tatparyaprakasha_v2_external",
+  "primary_authority_score": 90
+}

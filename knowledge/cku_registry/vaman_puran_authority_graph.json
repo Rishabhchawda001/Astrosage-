@@ -1,6 +1,6 @@
 {
   "scripture": "vaman_puran",
-  "total_editions": 2,
+  "total_editions": 4,
   "primary_edition": "Vaman Puran (Gita Press).md",
   "primary_authority_score": 80,
   "editions": [
@@ -13,12 +13,34 @@
       "verses": 8975
     },
     {
+      "file": "vaman_puran_gita_press_new_external.md",
+      "publisher": "Gita Press (New Edition)",
+      "authority_score": 80,
+      "quality_tier": "A",
+      "ckus": 0,
+      "verses": 0,
+      "source": "archive.org",
+      "size_bytes": 3600032,
+      "hash": "10e88a2520f2b017"
+    },
+    {
       "file": "Vaman Puran.md",
       "publisher": "Archive.org",
       "authority_score": 55,
       "quality_tier": "B",
       "ckus": 1854,
       "verses": 0
+    },
+    {
+      "file": "vaman_puran_hindi_external.md",
+      "publisher": "Archive.org Hindi",
+      "authority_score": 55,
+      "quality_tier": "B",
+      "ckus": 0,
+      "verses": 0,
+      "source": "archive.org",
+      "size_bytes": 1408310,
+      "hash": "93a68487eb70343a"
     }
   ],
   "created_date": "2026-07-14T15:18:59.824876+00:00",

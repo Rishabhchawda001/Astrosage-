@@ -1,0 +1,48 @@
+{
+  "scripture": "markandeya_puran",
+  "created": "2026-07-14T15:52:14.806770+00:00",
+  "edition_count": 2,
+  "editions": [
+    {
+      "name": "markandeya_puran_sanskrit_external",
+      "file": "knowledge/silver/structured_documents/markandeya_puran_sanskrit_external.md",
+      "size_bytes": 1829266,
+      "lines": 20727,
+      "script": "Devanagari",
+      "devanagari_percentage": 81.7,
+      "authority_score": 75,
+      "textual_family": "sanskrit_original",
+      "hash": "c1fc2528222e9e5e",
+      "source": "archive.org",
+      "public_domain": true
+    },
+    {
+      "name": "markandeya_puran_hindi_translation_external",
+      "file": "knowledge/silver/structured_documents/markandeya_puran_hindi_translation_external.md",
+      "size_bytes": 3222062,
+      "lines": 37805,
+      "script": "Devanagari",
+      "devanagari_percentage": 77.1,
+      "authority_score": 60,
+      "textual_family": "hindi_translation",
+      "hash": "b548ec62c26707b4",
+      "source": "archive.org",
+      "public_domain": true
+    }
+  ],
+  "authority_scores": {
+    "markandeya_puran_hindi_translation_external": 60,
+    "markandeya_puran_sanskrit_external": 75
+  },
+  "textual_families": {
+    "hindi_translation": [
+      "markandeya_puran_hindi_translation_external"
+    ],
+    "sanskrit_original": [
+      "markandeya_puran_sanskrit_external"
+    ]
+  },
+  "cross_references": [],
+  "primary_edition": "markandeya_puran_sanskrit_external",
+  "primary_authority_score": 75
+}

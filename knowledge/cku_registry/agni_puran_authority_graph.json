@@ -1,0 +1,48 @@
+{
+  "scripture": "agni_puran",
+  "created": "2026-07-14T15:52:14.449201+00:00",
+  "edition_count": 2,
+  "editions": [
+    {
+      "name": "agni_puran_gita_press_new_external",
+      "file": "knowledge/silver/structured_documents/agni_puran_gita_press_new_external.md",
+      "size_bytes": 2848825,
+      "lines": 63319,
+      "script": "Latin/Other",
+      "devanagari_percentage": 0.0,
+      "authority_score": 75,
+      "textual_family": "gita_press",
+      "hash": "22dc13918626186f",
+      "source": "archive.org",
+      "public_domain": true
+    },
+    {
+      "name": "Agni_Puran_of_Maharshi_Vyas_Mansukh_Ray_Mor_Guru_Mandal_Granth_Mala",
+      "file": "knowledge/silver/structured_documents/Agni_Puran_of_Maharshi_Vyas_Mansukh_Ray_Mor_Guru_Mandal_Granth_Mala.md",
+      "size_bytes": 82225,
+      "lines": 3390,
+      "script": "Latin/Other",
+      "devanagari_percentage": 0.0,
+      "authority_score": 50,
+      "textual_family": "unknown",
+      "hash": "28cc4ef4d7587416",
+      "source": "existing_corpus",
+      "public_domain": true
+    }
+  ],
+  "authority_scores": {
+    "Agni_Puran_of_Maharshi_Vyas_Mansukh_Ray_Mor_Guru_Mandal_Granth_Mala": 50,
+    "agni_puran_gita_press_new_external": 75
+  },
+  "textual_families": {
+    "unknown": [
+      "Agni_Puran_of_Maharshi_Vyas_Mansukh_Ray_Mor_Guru_Mandal_Granth_Mala"
+    ],
+    "gita_press": [
+      "agni_puran_gita_press_new_external"
+    ]
+  },
+  "cross_references": [],
+  "primary_edition": "agni_puran_gita_press_new_external",
+  "primary_authority_score": 75
+}

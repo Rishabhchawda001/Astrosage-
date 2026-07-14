@@ -1,0 +1,48 @@
+{
+  "scripture": "naradiya_puran",
+  "created": "2026-07-14T15:52:15.027586+00:00",
+  "edition_count": 2,
+  "editions": [
+    {
+      "name": "naradiya_puran_sanskrit_text_external",
+      "file": "knowledge/silver/structured_documents/naradiya_puran_sanskrit_text_external.md",
+      "size_bytes": 3002060,
+      "lines": 48024,
+      "script": "Devanagari",
+      "devanagari_percentage": 75.5,
+      "authority_score": 75,
+      "textual_family": "sanskrit_original",
+      "hash": "ce9f781b4b7c8e46",
+      "source": "archive.org",
+      "public_domain": true
+    },
+    {
+      "name": "naradiya_puran_brihan_external",
+      "file": "knowledge/silver/structured_documents/naradiya_puran_brihan_external.md",
+      "size_bytes": 149883,
+      "lines": 9815,
+      "script": "Latin/Other",
+      "devanagari_percentage": 0.0,
+      "authority_score": 55,
+      "textual_family": "unknown",
+      "hash": "c451483c1b34bda8",
+      "source": "archive.org",
+      "public_domain": true
+    }
+  ],
+  "authority_scores": {
+    "naradiya_puran_brihan_external": 55,
+    "naradiya_puran_sanskrit_text_external": 75
+  },
+  "textual_families": {
+    "unknown": [
+      "naradiya_puran_brihan_external"
+    ],
+    "sanskrit_original": [
+      "naradiya_puran_sanskrit_text_external"
+    ]
+  },
+  "cross_references": [],
+  "primary_edition": "naradiya_puran_sanskrit_text_external",
+  "primary_authority_score": 75
+}
