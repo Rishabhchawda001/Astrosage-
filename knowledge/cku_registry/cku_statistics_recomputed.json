@@ -1,0 +1,16 @@
+{
+  "recomputed_date": "2026-07-14",
+  "total_silver_files": 635,
+  "total_ckus": 1114925,
+  "total_verses": 897019,
+  "total_paragraphs": 1114925,
+  "total_words": 79034327,
+  "total_characters": 296476768,
+  "total_devanagari": 119923511,
+  "language_distribution": {
+    "other": 477,
+    "devanagari": 148,
+    "mixed": 10
+  },
+  "authoritative_ckus": 63360
+}
