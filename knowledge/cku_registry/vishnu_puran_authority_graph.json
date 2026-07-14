@@ -1,0 +1,26 @@
+{
+  "scripture": "vishnu_puran",
+  "created": "2026-07-14T16:02:55.220395+00:00",
+  "editions": [
+    {
+      "file": "Vishnu Puran (Gita Press).md",
+      "publisher": "Archive.org",
+      "authority_score": 80,
+      "quality_tier": "A",
+      "source": "archive.org"
+    },
+    {
+      "file": "vishnu_puran_gita_press_new_external.md",
+      "publisher": "Gita Press",
+      "authority_score": 75,
+      "quality_tier": "A",
+      "source": "archive.org"
+    }
+  ],
+  "authority_scores": {
+    "Vishnu Puran (Gita Press).md": 80,
+    "vishnu_puran_gita_press_new_external.md": 75
+  },
+  "textual_families": {},
+  "total_editions": 2
+}

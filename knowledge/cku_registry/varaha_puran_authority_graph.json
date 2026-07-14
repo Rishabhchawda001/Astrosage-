@@ -1,0 +1,18 @@
+{
+  "scripture": "varaha_puran",
+  "created": "2026-07-14T16:02:55.223773+00:00",
+  "editions": [
+    {
+      "file": "varaha_puran_gita_press_new_external.md",
+      "publisher": "Gita Press",
+      "authority_score": 75,
+      "quality_tier": "A",
+      "source": "archive.org"
+    }
+  ],
+  "authority_scores": {
+    "varaha_puran_gita_press_new_external.md": 75
+  },
+  "textual_families": {},
+  "total_editions": 1
+}

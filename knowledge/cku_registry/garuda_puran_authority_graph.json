@@ -1,0 +1,26 @@
+{
+  "scripture": "garuda_puran",
+  "created": "2026-07-14T16:02:55.222305+00:00",
+  "editions": [
+    {
+      "file": "garuda_puran_gita_press_external.md",
+      "publisher": "Gita Press",
+      "authority_score": 75,
+      "quality_tier": "A",
+      "source": "archive.org"
+    },
+    {
+      "file": "garuda_puran_hindi_external.md",
+      "publisher": "Archive.org",
+      "authority_score": 65,
+      "quality_tier": "B",
+      "source": "archive.org"
+    }
+  ],
+  "authority_scores": {
+    "garuda_puran_hindi_external.md": 65,
+    "garuda_puran_gita_press_external.md": 75
+  },
+  "textual_families": {},
+  "total_editions": 2
+}
