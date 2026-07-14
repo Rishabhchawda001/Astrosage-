@@ -1,6 +1,10 @@
 {
-  "total_jobs": 0,
-  "queued": 0,
-  "by_status": {},
-  "by_priority": {}
+  "total_jobs": 2,
+  "queued": 2,
+  "by_status": {
+    "queued": 2
+  },
+  "by_priority": {
+    "high": 2
+  }
 }

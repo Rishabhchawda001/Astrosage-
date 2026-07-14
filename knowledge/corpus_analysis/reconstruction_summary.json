@@ -1,5 +1,7 @@
 {
-  "total_candidates": 0,
-  "pending_review": 0,
-  "by_status": {}
+  "total_candidates": 2,
+  "pending_review": 2,
+  "by_status": {
+    "generated": 2
+  }
 }
