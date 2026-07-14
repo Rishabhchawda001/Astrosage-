@@ -1,0 +1,222 @@
+{
+  "metadata": {
+    "created": "2026-07-14T20:34:00.321039+00:00",
+    "purpose": "Identify the strongest possible witness for each canonical gap"
+  },
+  "scriptures": {
+    "Bhagavata Purana": {
+      "gap": "335 chapters expected, only 40 detected (12%)",
+      "root_cause": "OCR damage destroys chapter markers (अध्याय) in Gita Press edition",
+      "ideal_witness": {
+        "type": "Critical Sanskrit edition",
+        "publisher": "Gita Press (native digital) or Chaukhamba Publishers",
+        "language": "Sanskrit",
+        "script": "Devanagari",
+        "format": "Native Unicode text (not OCR)",
+        "features": [
+          "Chapter numbers",
+          "Verse numbers",
+          "Skandha structure",
+          "TOC"
+        ],
+        "example": "Srimad Bhagavatam with Gitagovernment Sanskrit text",
+        "why": "Gita Press publishes canonical Sanskrit editions with proper chapter/verse numbering"
+      },
+      "current_witnesses": [
+        {
+          "file": "bhagavat_gitapress_complete_external.md",
+          "quality": "MEDIUM",
+          "structure": "POOR"
+        },
+        {
+          "file": "Bhagavat Purana Hindi Full (Variant Edition).md",
+          "quality": "MEDIUM",
+          "structure": "POOR"
+        },
+        {
+          "file": "श्री_मद्भागवत_महापुराण_प्रथम_खण्ड.md",
+          "quality": "MEDIUM",
+          "structure": "POOR"
+        }
+      ],
+      "search_queries": [
+        "Srimad Bhagavatam sanskrit text chapter wise",
+        "भागवत पुराण संस्कृत मूल अध्याय",
+        "Bhagavata Purana critical edition Chaukhamba",
+        "Srimad Bhagavatam Gita Press sanskrit"
+      ]
+    },
+    "Valmiki Ramayana": {
+      "gap": "614 chapters (sargas) expected, only 26 detected (4%)",
+      "root_cause": "OCR damage destroys Kanda/Sarga structure",
+      "ideal_witness": {
+        "type": "Critical Sanskrit edition",
+        "publisher": "Chaukhamba Publishers (Baroda Critical Edition) or Gita Press",
+        "language": "Sanskrit",
+        "script": "Devanagari",
+        "format": "Native Unicode text",
+        "features": [
+          "7 Kandas",
+          "614 Sargas",
+          "Verse numbering",
+          "Critical apparatus"
+        ],
+        "example": "Valmiki Ramayana Baroda Critical Edition (6 volumes)",
+        "why": "Baroda Critical Edition is the scholarly standard with complete structural apparatus"
+      },
+      "current_witnesses": [
+        {
+          "file": "Shrimad Valmiki Ramayana (Hindi Edition) - Valmiki.md",
+          "quality": "MEDIUM",
+          "structure": "POOR"
+        },
+        {
+          "file": "ramayana_sanskrit_dpsharma.md",
+          "quality": "HIGH",
+          "structure": "POOR"
+        }
+      ],
+      "search_queries": [
+        "Valmiki Ramayana Baroda Critical Edition sanskrit",
+        "वाल्मीकि रामायण बारोदा संस्करण",
+        "Ramayana Chaukhamba critical edition",
+        "Valmiki Ramayana sanskrit unicode text"
+      ]
+    },
+    "Devi Bhagwat": {
+      "gap": "245 chapters expected, only 19 detected (8%)",
+      "root_cause": "OCR damage destroys Skandha/Adhyaya structure",
+      "ideal_witness": {
+        "type": "Sanskrit edition with commentary",
+        "publisher": "Bharatiya Vidya Prakashan or Khemraj",
+        "language": "Sanskrit",
+        "script": "Devanagari",
+        "format": "Native Unicode text",
+        "features": [
+          "12 Skandhas",
+          "245 Adhyayas",
+          "Verse numbering",
+          "Nilkanthi commentary"
+        ],
+        "example": "Shrimad Devi Bhagavat with Nilkanthi Sanskrit Annotation",
+        "why": "Nilkanthi edition has the best scholarly apparatus"
+      },
+      "current_witnesses": [
+        {
+          "file": "devi_bhagwat_nilkanthi_external.md",
+          "quality": "HIGH",
+          "structure": "POOR"
+        },
+        {
+          "file": "Devi Bhagwat (Gita Press).md",
+          "quality": "MEDIUM",
+          "structure": "POOR"
+        }
+      ],
+      "search_queries": [
+        "Devi Bhagavatam sanskrit text chapter wise",
+        "देवी भागवत संस्कृत मूल अध्याय",
+        "Devi Bhagwat Nilkanthi commentary sanskrit"
+      ]
+    },
+    "Harivansh Puran": {
+      "gap": "162 chapters expected, only 23 detected (14%)",
+      "root_cause": "OCR damage destroys chapter structure",
+      "ideal_witness": {
+        "type": "BORI Critical Edition",
+        "publisher": "Bhandarkar Oriental Research Institute",
+        "language": "Sanskrit",
+        "script": "Devanagari",
+        "format": "Critical edition with apparatus",
+        "features": [
+          "Complete Harivamsha",
+          "Critical apparatus",
+          "Chapter structure"
+        ],
+        "example": "Harivamsa BORI Edition",
+        "why": "BORI is the definitive critical edition of Mahabharata and its supplements"
+      },
+      "current_witnesses": [
+        {
+          "file": "harivamsha_sanskrit_supplement_external.md",
+          "quality": "HIGH",
+          "structure": "PARTIAL"
+        },
+        {
+          "file": "Harivansh Puran (Gita Press).md",
+          "quality": "MEDIUM",
+          "structure": "POOR"
+        }
+      ],
+      "search_queries": [
+        "Harivamsa BORI critical edition sanskrit",
+        "हरिवंश पुराण बोरी संस्करण",
+        "Harivamsha supplement Mahabharata sanskrit text"
+      ]
+    },
+    "Vishnu Purana": {
+      "gap": "132 chapters expected, only 14 detected (11%)",
+      "root_cause": "OCR damage destroys chapter structure",
+      "ideal_witness": {
+        "type": "Critical Sanskrit edition",
+        "publisher": "Chaukhamba Publishers or Anandashram",
+        "language": "Sanskrit",
+        "script": "Devanagari",
+        "format": "Native Unicode text",
+        "features": [
+          "6 Books",
+          "132 Adhyayas",
+          "Verse numbering"
+        ],
+        "example": "Vishnu Purana Anandashram Sanskrit Series",
+        "why": "Anandashram publishes authoritative Sanskrit editions"
+      },
+      "current_witnesses": [
+        {
+          "file": "vishnu_puran_hindi_new_external.md",
+          "quality": "HIGH",
+          "structure": "POOR"
+        },
+        {
+          "file": "Vishnu Puran (Gita Press).md",
+          "quality": "MEDIUM",
+          "structure": "POOR"
+        }
+      ],
+      "search_queries": [
+        "Vishnu Purana sanskrit text Anandashram",
+        "विष्णु पुराण संस्कृत मूल",
+        "Vishnu Purana Chaukhamba critical edition"
+      ]
+    },
+    "Brahma Purana": {
+      "gap": "245 chapters expected, only 13 detected (5%)",
+      "root_cause": "OCR damage destroys chapter structure",
+      "ideal_witness": {
+        "type": "Critical Sanskrit edition",
+        "publisher": "Chaukhamba Publishers or Anandashram",
+        "language": "Sanskrit",
+        "script": "Devanagari",
+        "format": "Native Unicode text",
+        "features": [
+          "245 chapters",
+          "Verse numbering"
+        ],
+        "example": "Brahma Purana Anandashram Sanskrit Series",
+        "why": "Anandashram publishes authoritative Sanskrit editions"
+      },
+      "current_witnesses": [
+        {
+          "file": "Brahma Puran Part 1 (Archive.org).md",
+          "quality": "MEDIUM",
+          "structure": "POOR"
+        }
+      ],
+      "search_queries": [
+        "Brahma Purana sanskrit text Anandashram",
+        "ब्रह्म पुराण संस्कृत मूल",
+        "Brahma Purana Chaukhamba edition"
+      ]
+    }
+  }
+}
