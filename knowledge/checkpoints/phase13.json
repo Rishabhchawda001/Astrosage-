@@ -626,14 +626,23 @@
     "kalyan_ramayan_ank",
     "sadhak_sanjivani_full_djvu",
     "sadhak_sanjivini_sanskrit_hindi_djvu",
-    "varaha_puran"
+    "varaha_puran",
+    "Brihad Naradiya Puranam (Sanskrit-Hindi)",
+    "Garuda Puran (Sanskrit Text Only)",
+    "Harivansh Puran (Archive.org Hindi)",
+    "Kurma Puran (Archive.org Hindi)",
+    "Linga Puran (Archive.org Hindi)",
+    "Markandeya Puran (Archive.org Hindi)",
+    "Matsya Puran (Archive.org Hindi)",
+    "Skand Puran (Archive.org Hindi)",
+    "Skand Puran (Gita Press)"
   ],
   "failed_books": [],
-  "gap_count": 0,
-  "evidence_count": 0,
+  "gap_count": 99,
+  "evidence_count": 9,
   "candidate_count": 0,
   "conflict_count": 0,
   "started_at": "2026-07-13T06:53:56.144374+00:00",
-  "last_updated": "2026-07-14T11:17:42.260470+00:00",
+  "last_updated": "2026-07-14T14:12:07.052185+00:00",
   "metadata": {}
 }
