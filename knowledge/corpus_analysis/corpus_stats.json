@@ -1,13 +1,15 @@
 {
-  "total_books_analyzed": 22,
+  "total_books_analyzed": 15,
   "language_distribution": {
-    "english": 6,
-    "mixed_hindi_english": 16
+    "hindi_sanskrit": 13,
+    "mixed_hindi_english": 1,
+    "unknown": 1
   },
   "tier_distribution": {
-    "tier1_english_hindi_sanskrit": 22
+    "tier1_english_hindi_sanskrit": 14,
+    "tier3_media": 1
   },
-  "books_with_gaps": 22,
-  "books_verified": 22,
+  "books_with_gaps": 15,
+  "books_verified": 14,
   "books_with_conflicts": 0
 }

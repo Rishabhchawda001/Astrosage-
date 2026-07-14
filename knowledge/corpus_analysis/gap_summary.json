@@ -1,18 +1,15 @@
 {
-  "total_gaps": 584540,
+  "total_gaps": 556518,
   "by_type": {
-    "low_confidence": 22,
-    "truncated_line": 584514,
-    "unicode_corruption": 2,
-    "suspicious_whitespace": 2
+    "low_confidence": 15,
+    "truncated_line": 556503
   },
   "by_severity": {
-    "medium": 22,
-    "low": 584516,
-    "high": 2
+    "medium": 15,
+    "low": 556503
   },
   "by_status": {
-    "detected": 584540
+    "detected": 556518
   },
-  "books_affected": 22
+  "books_affected": 15
 }
