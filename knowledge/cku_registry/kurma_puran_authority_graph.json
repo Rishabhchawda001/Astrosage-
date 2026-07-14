@@ -1,0 +1,38 @@
+{
+  "scripture": "kurma_puran",
+  "total_editions": 2,
+  "primary_edition": "Kurma Puran (Gita Press).md",
+  "primary_authority_score": 85,
+  "editions": [
+    {
+      "file": "Kurma Puran (Gita Press).md",
+      "publisher": "Gita Press",
+      "year": "~1990",
+      "language": "** Hindi/Sanskrit (Devanagari)",
+      "source": "** Archive.org",
+      "source_file": "** kurma_puran.txt",
+      "devanagari_coverage": 164.8,
+      "verses": 16056,
+      "ckus": 7573,
+      "size": 0,
+      "authority_score": 85,
+      "quality_tier": "A"
+    },
+    {
+      "file": "Kurma Puran (Archive.org Hindi).md",
+      "publisher": "Archive.org (Public Domain)",
+      "year": "Unknown",
+      "language": "** Hindi (Devanagari)",
+      "source": "** Archive.org",
+      "source_file": "",
+      "devanagari_coverage": 159.5,
+      "verses": 10893,
+      "ckus": 26365,
+      "size": 1188340,
+      "authority_score": 70,
+      "quality_tier": "A"
+    }
+  ],
+  "created_date": "2026-07-14T15:17:14.976305+00:00",
+  "recovery_status": "active"
+}

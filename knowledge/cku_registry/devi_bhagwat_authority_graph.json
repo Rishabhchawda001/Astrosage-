@@ -1,0 +1,40 @@
+{
+  "scripture": "devi_bhagwat",
+  "total_editions": 3,
+  "primary_edition": "Devi Bhagwat (Gita Press).md",
+  "primary_authority_score": 85,
+  "editions": [
+    {
+      "file": "Devi Bhagwat (Gita Press).md",
+      "publisher": "Gita Press",
+      "year": "~1990",
+      "language": "Hindi/Sanskrit",
+      "authority_score": 85,
+      "quality_tier": "A",
+      "ckus": 32894,
+      "verses": 42983
+    },
+    {
+      "file": "Devi Bhagvat Puran.md",
+      "publisher": "Archive.org (Public Domain)",
+      "year": "Unknown",
+      "language": "Hindi/Sanskrit",
+      "authority_score": 70,
+      "quality_tier": "A",
+      "ckus": 32917,
+      "verses": 42983
+    },
+    {
+      "file": "Hindi Book-Devi Bhagvat Puran.md",
+      "publisher": "Archive.org (Public Domain)",
+      "year": "Unknown",
+      "language": "Hindi",
+      "authority_score": 65,
+      "quality_tier": "B",
+      "ckus": 32918,
+      "verses": 42983
+    }
+  ],
+  "created_date": "2026-07-14T15:18:43.049662+00:00",
+  "recovery_status": "active"
+}

@@ -1,0 +1,38 @@
+{
+  "scripture": "skand_puran",
+  "total_editions": 2,
+  "primary_edition": "Skand Puran (Gita Press).md",
+  "primary_authority_score": 75,
+  "editions": [
+    {
+      "file": "Skand Puran (Gita Press).md",
+      "publisher": "Gita Press",
+      "year": "~1990",
+      "language": "** Hindi (Devanagari)",
+      "source": "** Archive.org",
+      "source_file": "",
+      "devanagari_coverage": 156.3,
+      "verses": 1553,
+      "ckus": 76545,
+      "size": 3664698,
+      "authority_score": 75,
+      "quality_tier": "A"
+    },
+    {
+      "file": "Skand Puran (Archive.org Hindi).md",
+      "publisher": "Archive.org (Public Domain)",
+      "year": "Unknown",
+      "language": "** Hindi (Devanagari)",
+      "source": "** Archive.org",
+      "source_file": "",
+      "devanagari_coverage": 162.3,
+      "verses": 587,
+      "ckus": 11921,
+      "size": 638796,
+      "authority_score": 60,
+      "quality_tier": "B"
+    }
+  ],
+  "created_date": "2026-07-14T15:17:13.583807+00:00",
+  "recovery_status": "active"
+}

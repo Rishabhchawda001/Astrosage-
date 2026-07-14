@@ -1,0 +1,38 @@
+{
+  "scripture": "matsya_puran",
+  "total_editions": 2,
+  "primary_edition": "Matsya Puran (Gita Press).md",
+  "primary_authority_score": 85,
+  "editions": [
+    {
+      "file": "Matsya Puran (Gita Press).md",
+      "publisher": "Gita Press",
+      "year": "~1990",
+      "language": "** Hindi/Sanskrit (Devanagari)",
+      "source": "** Archive.org",
+      "source_file": "** matsya_puran.txt",
+      "devanagari_coverage": 159.3,
+      "verses": 17920,
+      "ckus": 12984,
+      "size": 0,
+      "authority_score": 85,
+      "quality_tier": "A"
+    },
+    {
+      "file": "Matsya Puran (Archive.org Hindi).md",
+      "publisher": "Archive.org (Public Domain)",
+      "year": "Unknown",
+      "language": "** Hindi (Devanagari)",
+      "source": "** Archive.org",
+      "source_file": "",
+      "devanagari_coverage": 163.9,
+      "verses": 409,
+      "ckus": 12560,
+      "size": 664870,
+      "authority_score": 60,
+      "quality_tier": "B"
+    }
+  ],
+  "created_date": "2026-07-14T15:17:15.608641+00:00",
+  "recovery_status": "active"
+}

@@ -1,0 +1,38 @@
+{
+  "scripture": "linga_puran",
+  "total_editions": 2,
+  "primary_edition": "Linga Puran (Gita Press).md",
+  "primary_authority_score": 85,
+  "editions": [
+    {
+      "file": "Linga Puran (Gita Press).md",
+      "publisher": "Gita Press",
+      "year": "~1990",
+      "language": "** Hindi/Sanskrit (Devanagari)",
+      "source": "** Archive.org",
+      "source_file": "** linga_puran.txt",
+      "devanagari_coverage": 163.1,
+      "verses": 19354,
+      "ckus": 14981,
+      "size": 0,
+      "authority_score": 85,
+      "quality_tier": "A"
+    },
+    {
+      "file": "Linga Puran (Archive.org Hindi).md",
+      "publisher": "Archive.org (Public Domain)",
+      "year": "Unknown",
+      "language": "** Hindi (Devanagari)",
+      "source": "** Archive.org",
+      "source_file": "",
+      "devanagari_coverage": 161.7,
+      "verses": 102,
+      "ckus": 8063,
+      "size": 399751,
+      "authority_score": 60,
+      "quality_tier": "B"
+    }
+  ],
+  "created_date": "2026-07-14T15:17:16.062243+00:00",
+  "recovery_status": "active"
+}
