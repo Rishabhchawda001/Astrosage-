@@ -1,0 +1,1383 @@
+{
+  "Rigveda": {
+    "scripture": "Rigveda",
+    "canonical_verses": 10552,
+    "reference_system": "Mandala.Sukta.Verse",
+    "proof_status": "CANONICALLY COMPLETE",
+    "proof_reason": "Verse evidence from 6 editions (10,024 verse markers vs 10,552 expected)",
+    "evidence_summary": {
+      "total_editions": 6,
+      "authority_graph_editions": 4,
+      "total_devanagari_chars": 2373357,
+      "total_verse_markers": 10024,
+      "completeness_pct": 94.99620924943139
+    },
+    "editions": [
+      {
+        "file": "- Rigveda Samhitaa -_1.md",
+        "size_mb": 3.1,
+        "devanagari_pct": 0.0,
+        "verse_markers": 0,
+        "chapter_markers": 0,
+        "section_markers": 0
+      },
+      {
+        "file": "Rig Veda Telugu.md",
+        "size_mb": 2.9,
+        "devanagari_pct": 0.0,
+        "verse_markers": 0,
+        "chapter_markers": 0,
+        "section_markers": 0
+      },
+      {
+        "file": "Rigveda Samhita Ramtek.md",
+        "size_mb": 1.3,
+        "devanagari_pct": 35.9,
+        "verse_markers": 139,
+        "chapter_markers": 0,
+        "section_markers": 0
+      },
+      {
+        "file": "Rigveda Sayanacharya.md",
+        "size_mb": 6.8,
+        "devanagari_pct": 72.8,
+        "verse_markers": 9878,
+        "chapter_markers": 0,
+        "section_markers": 0
+      },
+      {
+        "file": "rigveda-gujarati-mandal1.md",
+        "size_mb": 2.4,
+        "devanagari_pct": 1.2,
+        "verse_markers": 7,
+        "chapter_markers": 0,
+        "section_markers": 0
+      },
+      {
+        "file": "rigveda_english.md",
+        "size_mb": 1.7,
+        "devanagari_pct": 0.0,
+        "verse_markers": 0,
+        "chapter_markers": 0,
+        "section_markers": 0
+      }
+    ],
+    "variants_preserved": "All editions preserved as separate files",
+    "unresolved_units": "See CKU classification for details",
+    "evidence_limitations": []
+  },
+  "Yajurveda": {
+    "scripture": "Yajurveda",
+    "canonical_verses": 1975,
+    "reference_system": "Adhyaya.Verse",
+    "proof_status": "CANONICALLY COMPLETE",
+    "proof_reason": "Verse evidence from 1 editions (1,970 verse markers vs 1,975 expected)",
+    "evidence_summary": {
+      "total_editions": 1,
+      "authority_graph_editions": 2,
+      "total_devanagari_chars": 1057559,
+      "total_verse_markers": 1970,
+      "completeness_pct": 99.74683544303798
+    },
+    "editions": [
+      {
+        "file": "yajurved-gujarati.md",
+        "size_mb": 3.4,
+        "devanagari_pct": 72.4,
+        "verse_markers": 1970,
+        "chapter_markers": 0,
+        "section_markers": 1
+      }
+    ],
+    "variants_preserved": "All editions preserved as separate files",
+    "unresolved_units": "See CKU classification for details",
+    "evidence_limitations": []
+  },
+  "Samaveda": {
+    "scripture": "Samaveda",
+    "canonical_verses": 1875,
+    "reference_system": "Adhyaya.Verse",
+    "proof_status": "CANONICALLY COMPLETE",
+    "proof_reason": "Verse evidence from 1 editions (2,511 verse markers vs 1,875 expected)",
+    "evidence_summary": {
+      "total_editions": 1,
+      "authority_graph_editions": 2,
+      "total_devanagari_chars": 1508093,
+      "total_verse_markers": 2511,
+      "completeness_pct": 100
+    },
+    "editions": [
+      {
+        "file": "सामवेद.md",
+        "size_mb": 4.9,
+        "devanagari_pct": 73.5,
+        "verse_markers": 2511,
+        "chapter_markers": 2,
+        "section_markers": 4
+      }
+    ],
+    "variants_preserved": "All editions preserved as separate files",
+    "unresolved_units": "See CKU classification for details",
+    "evidence_limitations": []
+  },
+  "Atharvaveda": {
+    "scripture": "Atharvaveda",
+    "canonical_verses": 7600,
+    "reference_system": "Kanda.Adhyaya.Verse",
+    "proof_status": "CANONICALLY COMPLETE",
+    "proof_reason": "Verse evidence from 3 editions (15,864 verse markers vs 7,600 expected)",
+    "evidence_summary": {
+      "total_editions": 3,
+      "authority_graph_editions": 3,
+      "total_devanagari_chars": 3417282,
+      "total_verse_markers": 15864,
+      "completeness_pct": 100
+    },
+    "editions": [
+      {
+        "file": "Atharvaveda Samhita Sanskrit.md",
+        "size_mb": 2.9,
+        "devanagari_pct": 67.0,
+        "verse_markers": 5426,
+        "chapter_markers": 0,
+        "section_markers": 0
+      },
+      {
+        "file": "bmcjyY4xSXasjO68ISeW_अथर्ववेद.md",
+        "size_mb": 3.2,
+        "devanagari_pct": 71.0,
+        "verse_markers": 4912,
+        "chapter_markers": 0,
+        "section_markers": 0
+      },
+      {
+        "file": "अथर्ववेद.md",
+        "size_mb": 5.2,
+        "devanagari_pct": 71.2,
+        "verse_markers": 5526,
+        "chapter_markers": 0,
+        "section_markers": 0
+      }
+    ],
+    "variants_preserved": "All editions preserved as separate files",
+    "unresolved_units": "See CKU classification for details",
+    "evidence_limitations": []
+  },
+  "Bhagavata Purana": {
+    "scripture": "Bhagavata Purana",
+    "canonical_verses": 18000,
+    "reference_system": "Skandha.Adhyaya.Verse",
+    "proof_status": "CANONICALLY COMPLETE",
+    "proof_reason": "Verse evidence from 7 editions (39,915 verse markers vs 18,000 expected)",
+    "evidence_summary": {
+      "total_editions": 7,
+      "authority_graph_editions": 0,
+      "total_devanagari_chars": 14912330,
+      "total_verse_markers": 39915,
+      "completeness_pct": 100
+    },
+    "editions": [
+      {
+        "file": "Bhagavat Purana Hindi Full (Variant Edition).md",
+        "size_mb": 8.9,
+        "devanagari_pct": 80.1,
+        "verse_markers": 3820,
+        "chapter_markers": 1,
+        "section_markers": 2
+      },
+      {
+        "file": "Bhagavat Purana Vol 1 Gita Press (Variant).md",
+        "size_mb": 6.4,
+        "devanagari_pct": 76.2,
+        "verse_markers": 6018,
+        "chapter_markers": 4,
+        "section_markers": 182
+      },
+      {
+        "file": "Narayaneeyam Bhagavata Condensed Of Meppathur Narayana Bhattatiri Traslated By Swami Tapasyananda - Sri Ramakrishna Math, Madras.md",
+        "size_mb": 0.2,
+        "devanagari_pct": 0.0,
+        "verse_markers": 0,
+        "chapter_markers": 0,
+        "section_markers": 0
+      },
+      {
+        "file": "bhagavat_gita_press_sanskrit_hindi_external.md",
+        "size_mb": 6.4,
+        "devanagari_pct": 81.0,
+        "verse_markers": 1060,
+        "chapter_markers": 1,
+        "section_markers": 8
+      },
+      {
+        "file": "bhagavat_gitapress_complete_external.md",
+        "size_mb": 12.3,
+        "devanagari_pct": 81.2,
+        "verse_markers": 21943,
+        "chapter_markers": 70,
+        "section_markers": 685
+      },
+      {
+        "file": "bhagavat_vol1_gita_press.md",
+        "size_mb": 6.4,
+        "devanagari_pct": 76.2,
+        "verse_markers": 6018,
+        "chapter_markers": 4,
+        "section_markers": 182
+      },
+      {
+        "file": "bhagavat_vol2_sanskrit_hindi.md",
+        "size_mb": 6.3,
+        "devanagari_pct": 78.6,
+        "verse_markers": 1056,
+        "chapter_markers": 23,
+        "section_markers": 4
+      }
+    ],
+    "variants_preserved": "All editions preserved as separate files",
+    "unresolved_units": "See CKU classification for details",
+    "evidence_limitations": []
+  },
+  "Valmiki Ramayana": {
+    "scripture": "Valmiki Ramayana",
+    "canonical_verses": 24000,
+    "reference_system": "Kanda.Sarga.Verse",
+    "proof_status": "CANONICALLY COMPLETE",
+    "proof_reason": "Verse evidence from 13 editions (25,056 verse markers vs 24,000 expected)",
+    "evidence_summary": {
+      "total_editions": 13,
+      "authority_graph_editions": 3,
+      "total_devanagari_chars": 2797817,
+      "total_verse_markers": 25056,
+      "completeness_pct": 100
+    },
+    "editions": [
+      {
+        "file": "101-Valmiki-Ramayan-Telugu.md",
+        "size_mb": 0.1,
+        "devanagari_pct": 0.0,
+        "verse_markers": 0,
+        "chapter_markers": 0,
+        "section_markers": 0
+      },
+      {
+        "file": "102-Valmiki-Ramayan-Telugu.md",
+        "size_mb": 0.1,
+        "devanagari_pct": 0.0,
+        "verse_markers": 0,
+        "chapter_markers": 0,
+        "section_markers": 0
+      },
+      {
+        "file": "103-Valmiki-Ramayan-Telugu.md",
+        "size_mb": 0.1,
+        "devanagari_pct": 0.0,
+        "verse_markers": 0,
+        "chapter_markers": 0,
+        "section_markers": 0
+      },
+      {
+        "file": "104-Valmiki-Ramayan-Telugu.md",
+        "size_mb": 0.1,
+        "devanagari_pct": 0.0,
+        "verse_markers": 0,
+        "chapter_markers": 0,
+        "section_markers": 0
+      },
+      {
+        "file": "105-Valmiki-Ramayan-Telugu.md",
+        "size_mb": 0.1,
+        "devanagari_pct": 0.0,
+        "verse_markers": 0,
+        "chapter_markers": 0,
+        "section_markers": 0
+      },
+      {
+        "file": "106-Valmiki-Ramayan-Telugu.md",
+        "size_mb": 0.2,
+        "devanagari_pct": 0.0,
+        "verse_markers": 0,
+        "chapter_markers": 0,
+        "section_markers": 0
+      },
+      {
+        "file": "107-Valmiki-Ramayan-Telugu.md",
+        "size_mb": 0.1,
+        "devanagari_pct": 0.0,
+        "verse_markers": 0,
+        "chapter_markers": 0,
+        "section_markers": 0
+      },
+      {
+        "file": "201-Valmiki-Ramayan-Telugu.md",
+        "size_mb": 0.2,
+        "devanagari_pct": 0.0,
+        "verse_markers": 0,
+        "chapter_markers": 0,
+        "section_markers": 0
+      },
+      {
+        "file": "202-Valmiki-Ramayan-Telugu.md",
+        "size_mb": 0.2,
+        "devanagari_pct": 0.0,
+        "verse_markers": 0,
+        "chapter_markers": 0,
+        "section_markers": 0
+      },
+      {
+        "file": "203-Valmiki-Ramayan-Telugu.md",
+        "size_mb": 0.2,
+        "devanagari_pct": 0.0,
+        "verse_markers": 0,
+        "chapter_markers": 0,
+        "section_markers": 0
+      },
+      {
+        "file": "Shrimad Valmiki Ramayana (Hindi Edition) - Valmiki.md",
+        "size_mb": 8.7,
+        "devanagari_pct": 79.9,
+        "verse_markers": 25056,
+        "chapter_markers": 2,
+        "section_markers": 3
+      },
+      {
+        "file": "Valmiki Ramayanam Baalakanda- N Ranganatha sharma.md",
+        "size_mb": 0.0,
+        "devanagari_pct": 0.0,
+        "verse_markers": 0,
+        "chapter_markers": 0,
+        "section_markers": 0
+      },
+      {
+        "file": "tamil-ramayanam-326-page.md",
+        "size_mb": 2.0,
+        "devanagari_pct": 0.0,
+        "verse_markers": 0,
+        "chapter_markers": 0,
+        "section_markers": 0
+      }
+    ],
+    "variants_preserved": "All editions preserved as separate files",
+    "unresolved_units": "See CKU classification for details",
+    "evidence_limitations": []
+  },
+  "Devi Bhagwat": {
+    "scripture": "Devi Bhagwat",
+    "canonical_verses": 18000,
+    "reference_system": "Skandha.Adhyaya.Verse",
+    "proof_status": "CANONICALLY COMPLETE",
+    "proof_reason": "Verse evidence from 3 editions (91,899 verse markers vs 18,000 expected)",
+    "evidence_summary": {
+      "total_editions": 3,
+      "authority_graph_editions": 4,
+      "total_devanagari_chars": 11095647,
+      "total_verse_markers": 91899,
+      "completeness_pct": 100
+    },
+    "editions": [
+      {
+        "file": "Devi Bhagvat Puran.md",
+        "size_mb": 11.6,
+        "devanagari_pct": 78.6,
+        "verse_markers": 30633,
+        "chapter_markers": 4,
+        "section_markers": 645
+      },
+      {
+        "file": "Devi Bhagwat (Gita Press).md",
+        "size_mb": 11.6,
+        "devanagari_pct": 78.7,
+        "verse_markers": 30633,
+        "chapter_markers": 4,
+        "section_markers": 645
+      },
+      {
+        "file": "Hindi Book-Devi Bhagvat Puran.md",
+        "size_mb": 11.6,
+        "devanagari_pct": 78.6,
+        "verse_markers": 30633,
+        "chapter_markers": 4,
+        "section_markers": 645
+      }
+    ],
+    "variants_preserved": "All editions preserved as separate files",
+    "unresolved_units": "See CKU classification for details",
+    "evidence_limitations": []
+  },
+  "Harivansh Puran": {
+    "scripture": "Harivansh Puran",
+    "canonical_verses": 16000,
+    "reference_system": "Chapter.Verse",
+    "proof_status": "CANONICALLY COMPLETE",
+    "proof_reason": "Verse evidence from 3 editions (41,575 verse markers vs 16,000 expected)",
+    "evidence_summary": {
+      "total_editions": 3,
+      "authority_graph_editions": 3,
+      "total_devanagari_chars": 7956176,
+      "total_verse_markers": 41575,
+      "completeness_pct": 100
+    },
+    "editions": [
+      {
+        "file": "Harivansh Puran (Archive.org Hindi).md",
+        "size_mb": 4.0,
+        "devanagari_pct": 67.6,
+        "verse_markers": 1011,
+        "chapter_markers": 2,
+        "section_markers": 42
+      },
+      {
+        "file": "Harivansh Puran (Gita Press).md",
+        "size_mb": 10.5,
+        "devanagari_pct": 79.4,
+        "verse_markers": 20282,
+        "chapter_markers": 11,
+        "section_markers": 1
+      },
+      {
+        "file": "harivansh_puran_gita_press_new_external.md",
+        "size_mb": 10.4,
+        "devanagari_pct": 81.9,
+        "verse_markers": 20282,
+        "chapter_markers": 11,
+        "section_markers": 1
+      }
+    ],
+    "variants_preserved": "All editions preserved as separate files",
+    "unresolved_units": "See CKU classification for details",
+    "evidence_limitations": []
+  },
+  "Matsya Puran": {
+    "scripture": "Matsya Puran",
+    "canonical_verses": 14000,
+    "reference_system": "Chapter.Verse",
+    "proof_status": "CANONICALLY COMPLETE",
+    "proof_reason": "Verse evidence from 5 editions (29,293 verse markers vs 14,000 expected)",
+    "evidence_summary": {
+      "total_editions": 5,
+      "authority_graph_editions": 3,
+      "total_devanagari_chars": 5718211,
+      "total_verse_markers": 29293,
+      "completeness_pct": 100
+    },
+    "editions": [
+      {
+        "file": "Matsya Puran (Archive.org Hindi).md",
+        "size_mb": 1.6,
+        "devanagari_pct": 78.9,
+        "verse_markers": 277,
+        "chapter_markers": 0,
+        "section_markers": 0
+      },
+      {
+        "file": "Matsya Puran (Gita Press).md",
+        "size_mb": 8.2,
+        "devanagari_pct": 78.8,
+        "verse_markers": 14369,
+        "chapter_markers": 537,
+        "section_markers": 9
+      },
+      {
+        "file": "matsya-puran-1 (1).md",
+        "size_mb": 0.1,
+        "devanagari_pct": 0.0,
+        "verse_markers": 0,
+        "chapter_markers": 0,
+        "section_markers": 0
+      },
+      {
+        "file": "matsya-puran-2 (1).md",
+        "size_mb": 0.0,
+        "devanagari_pct": 0.0,
+        "verse_markers": 0,
+        "chapter_markers": 0,
+        "section_markers": 0
+      },
+      {
+        "file": "matsya_puran_gitapress_hindi_external.md",
+        "size_mb": 7.9,
+        "devanagari_pct": 82.3,
+        "verse_markers": 14647,
+        "chapter_markers": 374,
+        "section_markers": 8
+      }
+    ],
+    "variants_preserved": "All editions preserved as separate files",
+    "unresolved_units": "See CKU classification for details",
+    "evidence_limitations": []
+  },
+  "Vaman Puran": {
+    "scripture": "Vaman Puran",
+    "canonical_verses": 10000,
+    "reference_system": "Chapter.Verse",
+    "proof_status": "CANONICALLY COMPLETE",
+    "proof_reason": "Verse evidence from 5 editions (17,021 verse markers vs 10,000 expected)",
+    "evidence_summary": {
+      "total_editions": 5,
+      "authority_graph_editions": 4,
+      "total_devanagari_chars": 2659803,
+      "total_verse_markers": 17021,
+      "completeness_pct": 100
+    },
+    "editions": [
+      {
+        "file": "Vaman Puran (Gita Press).md",
+        "size_mb": 3.5,
+        "devanagari_pct": 79.3,
+        "verse_markers": 7096,
+        "chapter_markers": 458,
+        "section_markers": 0
+      },
+      {
+        "file": "Vaman Puran.md",
+        "size_mb": 0.2,
+        "devanagari_pct": 0.0,
+        "verse_markers": 0,
+        "chapter_markers": 112,
+        "section_markers": 0
+      },
+      {
+        "file": "vaman_puran_gita_press_new_external.md",
+        "size_mb": 3.4,
+        "devanagari_pct": 81.8,
+        "verse_markers": 7096,
+        "chapter_markers": 458,
+        "section_markers": 0
+      },
+      {
+        "file": "vaman_puran_hindi_external.md",
+        "size_mb": 1.3,
+        "devanagari_pct": 81.7,
+        "verse_markers": 2829,
+        "chapter_markers": 155,
+        "section_markers": 0
+      },
+      {
+        "file": "vamanpuran (1).md",
+        "size_mb": 0.2,
+        "devanagari_pct": 0.0,
+        "verse_markers": 0,
+        "chapter_markers": 0,
+        "section_markers": 0
+      }
+    ],
+    "variants_preserved": "All editions preserved as separate files",
+    "unresolved_units": "See CKU classification for details",
+    "evidence_limitations": []
+  },
+  "Kurma Puran": {
+    "scripture": "Kurma Puran",
+    "canonical_verses": 5000,
+    "reference_system": "Chapter.Verse",
+    "proof_status": "CANONICALLY COMPLETE",
+    "proof_reason": "Verse evidence from 4 editions (13,760 verse markers vs 5,000 expected)",
+    "evidence_summary": {
+      "total_editions": 4,
+      "authority_graph_editions": 3,
+      "total_devanagari_chars": 2090820,
+      "total_verse_markers": 13760,
+      "completeness_pct": 100
+    },
+    "editions": [
+      {
+        "file": "Kurma Puran (Archive.org Hindi).md",
+        "size_mb": 2.9,
+        "devanagari_pct": 78.8,
+        "verse_markers": 5835,
+        "chapter_markers": 0,
+        "section_markers": 0
+      },
+      {
+        "file": "Kurma Puran (Gita Press).md",
+        "size_mb": 3.6,
+        "devanagari_pct": 79.9,
+        "verse_markers": 7925,
+        "chapter_markers": 243,
+        "section_markers": 2
+      },
+      {
+        "file": "kurma (1).md",
+        "size_mb": 0.0,
+        "devanagari_pct": 0.0,
+        "verse_markers": 0,
+        "chapter_markers": 0,
+        "section_markers": 0
+      },
+      {
+        "file": "kurma_puran_gita_press_new_external.md",
+        "size_mb": 1.2,
+        "devanagari_pct": 0.0,
+        "verse_markers": 0,
+        "chapter_markers": 0,
+        "section_markers": 0
+      }
+    ],
+    "variants_preserved": "All editions preserved as separate files",
+    "unresolved_units": "See CKU classification for details",
+    "evidence_limitations": []
+  },
+  "Garuda Puran": {
+    "scripture": "Garuda Puran",
+    "canonical_verses": 8000,
+    "reference_system": "Chapter.Verse",
+    "proof_status": "CANONICALLY COMPLETE",
+    "proof_reason": "Verse evidence from 5 editions (10,154 verse markers vs 8,000 expected)",
+    "evidence_summary": {
+      "total_editions": 5,
+      "authority_graph_editions": 2,
+      "total_devanagari_chars": 3442592,
+      "total_verse_markers": 10154,
+      "completeness_pct": 100
+    },
+    "editions": [
+      {
+        "file": "Garuda Puran (Sanskrit Text Only).md",
+        "size_mb": 2.2,
+        "devanagari_pct": 84.1,
+        "verse_markers": 8485,
+        "chapter_markers": 0,
+        "section_markers": 1
+      },
+      {
+        "file": "garuda1 (1).md",
+        "size_mb": 0.1,
+        "devanagari_pct": 0.0,
+        "verse_markers": 0,
+        "chapter_markers": 0,
+        "section_markers": 0
+      },
+      {
+        "file": "garuda_puran.md",
+        "size_mb": 4.4,
+        "devanagari_pct": 76.2,
+        "verse_markers": 863,
+        "chapter_markers": 278,
+        "section_markers": 3
+      },
+      {
+        "file": "garuda_puran_gita_press_external.md",
+        "size_mb": 1.5,
+        "devanagari_pct": 0.0,
+        "verse_markers": 0,
+        "chapter_markers": 0,
+        "section_markers": 0
+      },
+      {
+        "file": "garuda_puran_hindi_external.md",
+        "size_mb": 4.2,
+        "devanagari_pct": 79.9,
+        "verse_markers": 806,
+        "chapter_markers": 188,
+        "section_markers": 0
+      }
+    ],
+    "variants_preserved": "All editions preserved as separate files",
+    "unresolved_units": "See CKU classification for details",
+    "evidence_limitations": []
+  },
+  "Linga Puran": {
+    "scripture": "Linga Puran",
+    "canonical_verses": 11000,
+    "reference_system": "Chapter.Verse",
+    "proof_status": "CANONICALLY COMPLETE",
+    "proof_reason": "Verse evidence from 8 editions (13,499 verse markers vs 11,000 expected)",
+    "evidence_summary": {
+      "total_editions": 8,
+      "authority_graph_editions": 2,
+      "total_devanagari_chars": 2249243,
+      "total_verse_markers": 13499,
+      "completeness_pct": 100
+    },
+    "editions": [
+      {
+        "file": "Dwadasa_Jyotirlinga_Stotram_Malayalam.md",
+        "size_mb": 0.0,
+        "devanagari_pct": 0.0,
+        "verse_markers": 0,
+        "chapter_markers": 0,
+        "section_markers": 0
+      },
+      {
+        "file": "Ling Puran 1.md",
+        "size_mb": 0.2,
+        "devanagari_pct": 0.0,
+        "verse_markers": 0,
+        "chapter_markers": 0,
+        "section_markers": 0
+      },
+      {
+        "file": "Ling Puran 2.md",
+        "size_mb": 0.2,
+        "devanagari_pct": 0.0,
+        "verse_markers": 0,
+        "chapter_markers": 20,
+        "section_markers": 0
+      },
+      {
+        "file": "Ling Puran Sans Eng 1.md",
+        "size_mb": 0.2,
+        "devanagari_pct": 0.0,
+        "verse_markers": 0,
+        "chapter_markers": 21,
+        "section_markers": 0
+      },
+      {
+        "file": "Ling Puran Sans Eng 2.md",
+        "size_mb": 0.2,
+        "devanagari_pct": 0.0,
+        "verse_markers": 0,
+        "chapter_markers": 20,
+        "section_markers": 0
+      },
+      {
+        "file": "Linga Puran (Archive.org Hindi).md",
+        "size_mb": 1.0,
+        "devanagari_pct": 76.6,
+        "verse_markers": 58,
+        "chapter_markers": 1,
+        "section_markers": 0
+      },
+      {
+        "file": "Linga Puran (Gita Press).md",
+        "size_mb": 6.1,
+        "devanagari_pct": 79.4,
+        "verse_markers": 13441,
+        "chapter_markers": 322,
+        "section_markers": 22
+      },
+      {
+        "file": "Linga-Puranam.md",
+        "size_mb": 0.3,
+        "devanagari_pct": 0.0,
+        "verse_markers": 0,
+        "chapter_markers": 0,
+        "section_markers": 0
+      }
+    ],
+    "variants_preserved": "All editions preserved as separate files",
+    "unresolved_units": "See CKU classification for details",
+    "evidence_limitations": []
+  },
+  "Naradiya Puran": {
+    "scripture": "Naradiya Puran",
+    "canonical_verses": 8000,
+    "reference_system": "Chapter.Verse",
+    "proof_status": "CANONICALLY COMPLETE",
+    "proof_reason": "Verse evidence from 12 editions (23,967 verse markers vs 8,000 expected)",
+    "evidence_summary": {
+      "total_editions": 12,
+      "authority_graph_editions": 2,
+      "total_devanagari_chars": 6388015,
+      "total_verse_markers": 23967,
+      "completeness_pct": 100
+    },
+    "editions": [
+      {
+        "file": "Brihad Naradiya Puranam (Sanskrit-Hindi).md",
+        "size_mb": 6.1,
+        "devanagari_pct": 76.7,
+        "verse_markers": 7171,
+        "chapter_markers": 86,
+        "section_markers": 6
+      },
+      {
+        "file": "Narad Panchatatra 1.md",
+        "size_mb": 0.1,
+        "devanagari_pct": 0.0,
+        "verse_markers": 0,
+        "chapter_markers": 23,
+        "section_markers": 0
+      },
+      {
+        "file": "Narad Panchatatra 2.md",
+        "size_mb": 0.1,
+        "devanagari_pct": 0.0,
+        "verse_markers": 0,
+        "chapter_markers": 0,
+        "section_markers": 0
+      },
+      {
+        "file": "Narad Puran 3.md",
+        "size_mb": 0.2,
+        "devanagari_pct": 0.0,
+        "verse_markers": 0,
+        "chapter_markers": 0,
+        "section_markers": 0
+      },
+      {
+        "file": "Narad Puran 4.md",
+        "size_mb": 0.2,
+        "devanagari_pct": 0.0,
+        "verse_markers": 0,
+        "chapter_markers": 0,
+        "section_markers": 0
+      },
+      {
+        "file": "Narad and Shandilya bhakti sutra.md",
+        "size_mb": 0.1,
+        "devanagari_pct": 0.0,
+        "verse_markers": 0,
+        "chapter_markers": 0,
+        "section_markers": 0
+      },
+      {
+        "file": "Narad_Bhakti_Shandilya_1p65.md",
+        "size_mb": 0.1,
+        "devanagari_pct": 0.0,
+        "verse_markers": 0,
+        "chapter_markers": 0,
+        "section_markers": 0
+      },
+      {
+        "file": "Narada_Bhakti_Sutra.md",
+        "size_mb": 0.1,
+        "devanagari_pct": 0.0,
+        "verse_markers": 0,
+        "chapter_markers": 1,
+        "section_markers": 0
+      },
+      {
+        "file": "Naradiya Puran (Archive.org).md",
+        "size_mb": 7.5,
+        "devanagari_pct": 81.7,
+        "verse_markers": 13270,
+        "chapter_markers": 6,
+        "section_markers": 4
+      },
+      {
+        "file": "naradiya_maha_puran_dli_external.md",
+        "size_mb": 3.5,
+        "devanagari_pct": 79.5,
+        "verse_markers": 1691,
+        "chapter_markers": 0,
+        "section_markers": 1
+      },
+      {
+        "file": "naradiya_puran_brihan_external.md",
+        "size_mb": 0.1,
+        "devanagari_pct": 0.0,
+        "verse_markers": 0,
+        "chapter_markers": 0,
+        "section_markers": 0
+      },
+      {
+        "file": "naradiya_puran_sanskrit_text_external.md",
+        "size_mb": 2.9,
+        "devanagari_pct": 75.5,
+        "verse_markers": 1835,
+        "chapter_markers": 0,
+        "section_markers": 0
+      }
+    ],
+    "variants_preserved": "All editions preserved as separate files",
+    "unresolved_units": "See CKU classification for details",
+    "evidence_limitations": []
+  },
+  "Vishnu Puran": {
+    "scripture": "Vishnu Puran",
+    "canonical_verses": 23000,
+    "reference_system": "Book.Adhyaya.Verse",
+    "proof_status": "PARTIALLY VERIFIED",
+    "proof_reason": "Partial coverage from 4 editions (16,066 verse markers vs 23,000 expected)",
+    "evidence_summary": {
+      "total_editions": 4,
+      "authority_graph_editions": 2,
+      "total_devanagari_chars": 2550984,
+      "total_verse_markers": 16066,
+      "completeness_pct": 69.85217391304349
+    },
+    "editions": [
+      {
+        "file": "Vishnu Puran (Gita Press).md",
+        "size_mb": 4.0,
+        "devanagari_pct": 78.0,
+        "verse_markers": 8000,
+        "chapter_markers": 5,
+        "section_markers": 5
+      },
+      {
+        "file": "Vishnu Puran Eng sans.md",
+        "size_mb": 0.3,
+        "devanagari_pct": 0.0,
+        "verse_markers": 0,
+        "chapter_markers": 0,
+        "section_markers": 0
+      },
+      {
+        "file": "vishnu_puran_gita_press_new_external.md",
+        "size_mb": 1.3,
+        "devanagari_pct": 0.0,
+        "verse_markers": 0,
+        "chapter_markers": 0,
+        "section_markers": 0
+      },
+      {
+        "file": "vishnu_puran_hindi_new_external.md",
+        "size_mb": 4.0,
+        "devanagari_pct": 81.5,
+        "verse_markers": 8066,
+        "chapter_markers": 5,
+        "section_markers": 2
+      }
+    ],
+    "variants_preserved": "All editions preserved as separate files",
+    "unresolved_units": "See CKU classification for details",
+    "evidence_limitations": [
+      "Verse count (16,066) below canonical target (23,000)"
+    ]
+  },
+  "Varaha Puran": {
+    "scripture": "Varaha Puran",
+    "canonical_verses": 10000,
+    "reference_system": "Chapter.Verse",
+    "proof_status": "PARTIALLY VERIFIED",
+    "proof_reason": "Partial coverage from 4 editions (7,526 verse markers vs 10,000 expected)",
+    "evidence_summary": {
+      "total_editions": 4,
+      "authority_graph_editions": 1,
+      "total_devanagari_chars": 1709762,
+      "total_verse_markers": 7526,
+      "completeness_pct": 75.26
+    },
+    "editions": [
+      {
+        "file": "varaha-puran (1).md",
+        "size_mb": 0.1,
+        "devanagari_pct": 0.0,
+        "verse_markers": 0,
+        "chapter_markers": 0,
+        "section_markers": 0
+      },
+      {
+        "file": "varaha_puran.md",
+        "size_mb": 2.8,
+        "devanagari_pct": 75.3,
+        "verse_markers": 111,
+        "chapter_markers": 573,
+        "section_markers": 7
+      },
+      {
+        "file": "varaha_puran_gita_press_new_external.md",
+        "size_mb": 1.0,
+        "devanagari_pct": 0.0,
+        "verse_markers": 0,
+        "chapter_markers": 0,
+        "section_markers": 0
+      },
+      {
+        "file": "varaha_puran_sanskrit_external.md",
+        "size_mb": 2.6,
+        "devanagari_pct": 81.1,
+        "verse_markers": 7415,
+        "chapter_markers": 0,
+        "section_markers": 0
+      }
+    ],
+    "variants_preserved": "All editions preserved as separate files",
+    "unresolved_units": "See CKU classification for details",
+    "evidence_limitations": [
+      "Verse count (7,526) below canonical target (10,000)"
+    ]
+  },
+  "Skanda Puran": {
+    "scripture": "Skanda Puran",
+    "canonical_verses": 20000,
+    "reference_system": "Khanda.Chapter.Verse",
+    "proof_status": "EVIDENCE-LIMITED",
+    "proof_reason": "Insufficient evidence from 22 editions (7,032 verse markers vs 20,000 expected)",
+    "evidence_summary": {
+      "total_editions": 22,
+      "authority_graph_editions": 0,
+      "total_devanagari_chars": 12924811,
+      "total_verse_markers": 7032,
+      "completeness_pct": 35.160000000000004
+    },
+    "editions": [
+      {
+        "file": "Skand Puran (Archive.org Hindi).md",
+        "size_mb": 1.6,
+        "devanagari_pct": 80.7,
+        "verse_markers": 311,
+        "chapter_markers": 0,
+        "section_markers": 4
+      },
+      {
+        "file": "Skand Puran (Gita Press).md",
+        "size_mb": 8.9,
+        "devanagari_pct": 77.4,
+        "verse_markers": 935,
+        "chapter_markers": 0,
+        "section_markers": 1
+      },
+      {
+        "file": "Skand puran 1.md",
+        "size_mb": 0.2,
+        "devanagari_pct": 0.0,
+        "verse_markers": 0,
+        "chapter_markers": 0,
+        "section_markers": 0
+      },
+      {
+        "file": "Skand puran 11.md",
+        "size_mb": 0.9,
+        "devanagari_pct": 0.0,
+        "verse_markers": 0,
+        "chapter_markers": 0,
+        "section_markers": 0
+      },
+      {
+        "file": "Skand puran 12.md",
+        "size_mb": 10.1,
+        "devanagari_pct": 77.1,
+        "verse_markers": 2277,
+        "chapter_markers": 3,
+        "section_markers": 2
+      },
+      {
+        "file": "Skand puran 13.md",
+        "size_mb": 0.7,
+        "devanagari_pct": 0.0,
+        "verse_markers": 0,
+        "chapter_markers": 0,
+        "section_markers": 0
+      },
+      {
+        "file": "Skand puran 14.md",
+        "size_mb": 0.6,
+        "devanagari_pct": 0.0,
+        "verse_markers": 0,
+        "chapter_markers": 1,
+        "section_markers": 0
+      },
+      {
+        "file": "Skand puran 15.md",
+        "size_mb": 0.6,
+        "devanagari_pct": 0.0,
+        "verse_markers": 0,
+        "chapter_markers": 0,
+        "section_markers": 0
+      },
+      {
+        "file": "Skand puran 18.md",
+        "size_mb": 0.9,
+        "devanagari_pct": 0.0,
+        "verse_markers": 0,
+        "chapter_markers": 1,
+        "section_markers": 0
+      },
+      {
+        "file": "Skand puran 2.md",
+        "size_mb": 0.2,
+        "devanagari_pct": 0.0,
+        "verse_markers": 0,
+        "chapter_markers": 0,
+        "section_markers": 0
+      },
+      {
+        "file": "Skand puran 20.md",
+        "size_mb": 0.7,
+        "devanagari_pct": 0.0,
+        "verse_markers": 0,
+        "chapter_markers": 0,
+        "section_markers": 0
+      },
+      {
+        "file": "Skand puran 21.md",
+        "size_mb": 0.3,
+        "devanagari_pct": 0.0,
+        "verse_markers": 0,
+        "chapter_markers": 0,
+        "section_markers": 0
+      },
+      {
+        "file": "Skand puran 22.md",
+        "size_mb": 0.3,
+        "devanagari_pct": 0.0,
+        "verse_markers": 0,
+        "chapter_markers": 0,
+        "section_markers": 0
+      },
+      {
+        "file": "Skand puran 3.md",
+        "size_mb": 0.2,
+        "devanagari_pct": 0.0,
+        "verse_markers": 0,
+        "chapter_markers": 0,
+        "section_markers": 0
+      },
+      {
+        "file": "Skand puran 4.md",
+        "size_mb": 0.4,
+        "devanagari_pct": 0.0,
+        "verse_markers": 0,
+        "chapter_markers": 0,
+        "section_markers": 0
+      },
+      {
+        "file": "Skand puran 5.md",
+        "size_mb": 0.2,
+        "devanagari_pct": 0.0,
+        "verse_markers": 0,
+        "chapter_markers": 0,
+        "section_markers": 0
+      },
+      {
+        "file": "Skand puran 6.md",
+        "size_mb": 0.2,
+        "devanagari_pct": 0.0,
+        "verse_markers": 0,
+        "chapter_markers": 0,
+        "section_markers": 0
+      },
+      {
+        "file": "Skand puran 7.md",
+        "size_mb": 0.2,
+        "devanagari_pct": 0.0,
+        "verse_markers": 0,
+        "chapter_markers": 0,
+        "section_markers": 0
+      },
+      {
+        "file": "Skand puran 8.md",
+        "size_mb": 0.2,
+        "devanagari_pct": 0.0,
+        "verse_markers": 0,
+        "chapter_markers": 0,
+        "section_markers": 0
+      },
+      {
+        "file": "Skand puran 9.md",
+        "size_mb": 0.2,
+        "devanagari_pct": 0.0,
+        "verse_markers": 0,
+        "chapter_markers": 0,
+        "section_markers": 0
+      },
+      {
+        "file": "Skanda Puran (Gita Press).md",
+        "size_mb": 10.1,
+        "devanagari_pct": 77.1,
+        "verse_markers": 2277,
+        "chapter_markers": 3,
+        "section_markers": 2
+      },
+      {
+        "file": "skand_puran_gita_press_new_external.md",
+        "size_mb": 9.9,
+        "devanagari_pct": 78.4,
+        "verse_markers": 1232,
+        "chapter_markers": 3,
+        "section_markers": 2
+      }
+    ],
+    "variants_preserved": "All editions preserved as separate files",
+    "unresolved_units": "See CKU classification for details",
+    "evidence_limitations": [
+      "Verse count (7,032) below canonical target (20,000)"
+    ]
+  },
+  "Agni Puran": {
+    "scripture": "Agni Puran",
+    "canonical_verses": 16000,
+    "reference_system": "Chapter.Verse",
+    "proof_status": "EVIDENCE-LIMITED",
+    "proof_reason": "Insufficient evidence from 4 editions (3,232 verse markers vs 16,000 expected)",
+    "evidence_summary": {
+      "total_editions": 4,
+      "authority_graph_editions": 2,
+      "total_devanagari_chars": 2017643,
+      "total_verse_markers": 3232,
+      "completeness_pct": 20.200000000000003
+    },
+    "editions": [
+      {
+        "file": "Agni Puran (Gita Press).md",
+        "size_mb": 6.4,
+        "devanagari_pct": 76.4,
+        "verse_markers": 3232,
+        "chapter_markers": 448,
+        "section_markers": 4
+      },
+      {
+        "file": "Agni Puran 2.md",
+        "size_mb": 0.7,
+        "devanagari_pct": 0.0,
+        "verse_markers": 0,
+        "chapter_markers": 1,
+        "section_markers": 0
+      },
+      {
+        "file": "Agni puran 3.md",
+        "size_mb": 0.4,
+        "devanagari_pct": 0.0,
+        "verse_markers": 0,
+        "chapter_markers": 0,
+        "section_markers": 0
+      },
+      {
+        "file": "agni Puran 4.md",
+        "size_mb": 0.8,
+        "devanagari_pct": 0.0,
+        "verse_markers": 0,
+        "chapter_markers": 0,
+        "section_markers": 0
+      }
+    ],
+    "variants_preserved": "All editions preserved as separate files",
+    "unresolved_units": "See CKU classification for details",
+    "evidence_limitations": [
+      "Verse count (3,232) below canonical target (16,000)"
+    ]
+  },
+  "Padma Puran": {
+    "scripture": "Padma Puran",
+    "canonical_verses": 12000,
+    "reference_system": "Part.Chapter.Verse",
+    "proof_status": "EVIDENCE-LIMITED",
+    "proof_reason": "Insufficient evidence from 5 editions (980 verse markers vs 12,000 expected)",
+    "evidence_summary": {
+      "total_editions": 5,
+      "authority_graph_editions": 0,
+      "total_devanagari_chars": 2379925,
+      "total_verse_markers": 980,
+      "completeness_pct": 8.166666666666666
+    },
+    "editions": [
+      {
+        "file": "Padma Puran (Gita Press).md",
+        "size_mb": 7.6,
+        "devanagari_pct": 74.5,
+        "verse_markers": 980,
+        "chapter_markers": 2,
+        "section_markers": 58
+      },
+      {
+        "file": "Padma Puran 3.md",
+        "size_mb": 0.7,
+        "devanagari_pct": 0.0,
+        "verse_markers": 0,
+        "chapter_markers": 1,
+        "section_markers": 0
+      },
+      {
+        "file": "Padma Puran 7.md",
+        "size_mb": 0.7,
+        "devanagari_pct": 0.0,
+        "verse_markers": 0,
+        "chapter_markers": 0,
+        "section_markers": 0
+      },
+      {
+        "file": "Padma Puran 8.md",
+        "size_mb": 0.6,
+        "devanagari_pct": 0.0,
+        "verse_markers": 0,
+        "chapter_markers": 1,
+        "section_markers": 0
+      },
+      {
+        "file": "Padma Puran 9.md",
+        "size_mb": 0.7,
+        "devanagari_pct": 0.0,
+        "verse_markers": 0,
+        "chapter_markers": 0,
+        "section_markers": 0
+      }
+    ],
+    "variants_preserved": "All editions preserved as separate files",
+    "unresolved_units": "See CKU classification for details",
+    "evidence_limitations": [
+      "Verse count (980) below canonical target (12,000)"
+    ]
+  },
+  "Brahma Puran": {
+    "scripture": "Brahma Puran",
+    "canonical_verses": 12000,
+    "reference_system": "Chapter.Verse",
+    "proof_status": "PARTIALLY VERIFIED",
+    "proof_reason": "Partial coverage from 2 editions (7,079 verse markers vs 12,000 expected)",
+    "evidence_summary": {
+      "total_editions": 2,
+      "authority_graph_editions": 0,
+      "total_devanagari_chars": 1261074,
+      "total_verse_markers": 7079,
+      "completeness_pct": 58.99166666666667
+    },
+    "editions": [
+      {
+        "file": "Brahma Puran Part 1 (Archive.org).md",
+        "size_mb": 3.9,
+        "devanagari_pct": 81.3,
+        "verse_markers": 7079,
+        "chapter_markers": 3,
+        "section_markers": 1
+      },
+      {
+        "file": "brahma_puran_gita_press_new_external.md",
+        "size_mb": 1.0,
+        "devanagari_pct": 0.0,
+        "verse_markers": 0,
+        "chapter_markers": 0,
+        "section_markers": 0
+      }
+    ],
+    "variants_preserved": "All editions preserved as separate files",
+    "unresolved_units": "See CKU classification for details",
+    "evidence_limitations": [
+      "Verse count (7,079) below canonical target (12,000)"
+    ]
+  },
+  "Brahma Vaivarta Puran": {
+    "scripture": "Brahma Vaivarta Puran",
+    "canonical_verses": 12000,
+    "reference_system": "Chapter.Verse",
+    "proof_status": "EVIDENCE-LIMITED",
+    "proof_reason": "Insufficient evidence from 4 editions (2,914 verse markers vs 12,000 expected)",
+    "evidence_summary": {
+      "total_editions": 4,
+      "authority_graph_editions": 0,
+      "total_devanagari_chars": 3400157,
+      "total_verse_markers": 2914,
+      "completeness_pct": 24.283333333333335
+    },
+    "editions": [
+      {
+        "file": "brahma_vaivarta_puran_gita_press_external.md",
+        "size_mb": 5.6,
+        "devanagari_pct": 79.0,
+        "verse_markers": 1245,
+        "chapter_markers": 219,
+        "section_markers": 229
+      },
+      {
+        "file": "brahma_vaivarta_puran_gitapress_hindi_external.md",
+        "size_mb": 3.2,
+        "devanagari_pct": 81.0,
+        "verse_markers": 881,
+        "chapter_markers": 121,
+        "section_markers": 132
+      },
+      {
+        "file": "brahma_vaivarta_puran_sanskrit_dli_external.md",
+        "size_mb": 0.1,
+        "devanagari_pct": 74.1,
+        "verse_markers": 72,
+        "chapter_markers": 0,
+        "section_markers": 0
+      },
+      {
+        "file": "brahma_vaivarta_puran_sanskrit_full_external.md",
+        "size_mb": 1.6,
+        "devanagari_pct": 77.7,
+        "verse_markers": 716,
+        "chapter_markers": 0,
+        "section_markers": 0
+      }
+    ],
+    "variants_preserved": "All editions preserved as separate files",
+    "unresolved_units": "See CKU classification for details",
+    "evidence_limitations": [
+      "Verse count (2,914) below canonical target (12,000)"
+    ]
+  }
+}
